@@ -1,0 +1,12 @@
+Source: jiraticketservice
+Section: devel
+Priority: extra
+Maintainer: alh alh@elex.be
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+
+Package: jiraticketservice
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends},sun-java6-jre|oracle-java7-jre, daemon
+Description: jiraticketservice
+    jiraticketservice
