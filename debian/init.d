@@ -20,7 +20,7 @@ DAEMON=/usr/bin/daemon
 NAME=$( basename -- $0 )
 DESC=jiraticketservice
 
-VERSION=1.4.0
+VERSION=1.7.0
 
 CMD_PATH=/usr/share/jiraticketservice
 CMD_JAVA_CLASS=com.melexis.jiraservice.JiraTicketStandAlone
