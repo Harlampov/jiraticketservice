@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+	<title>Xtrion Issuetracker - Log in</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    
+
+    
+<meta id="atlassian-token" name="atlassian-token" content="AGON-L78T-NB1G-ARCS|1d7c2342dd57a0349b9ca541250a9dad8f1437e7|lout">
+
+
+    <link rel="shortcut icon" href="/jira/s/en_US4sndn8/665/3/_/favicon.ico">
+    <link rel="icon" type="image/png" href="/jira/s/en_US4sndn8/665/3/_/images/icons/favicon.png">
+
+    <script type="text/javascript">var contextPath = "/jira"</script>
+<link type="text/css" rel="stylesheet" href="/jira/s/en_US4sndn8/665/3/1/_/download/superbatch/css/batch.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/jira/s/en_US4sndn8/665/3/1/_/download/superbatch/css/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<!--[if IE 9]>
+<link type="text/css" rel="stylesheet" href="/jira/s/en_US4sndn8/665/3/1/_/download/superbatch/css/batch.css?conditionalComment=IE+9" media="all">
+<![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/jira/s/en_US4sndn8/665/3/1/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/jira/s/en_US4sndn8/665/3/1.0/_/download/batch/jira.webresources:captcha/jira.webresources:captcha.css" media="all">
+<link type="text/css" rel="stylesheet" href="/jira/s/en_US4sndn8/665/3/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<link type="text/css" rel="stylesheet" href="/jira/s/en_US4sndn8/665/3/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css?media=print" media="print">
+<link type="text/css" rel="stylesheet" href="/jira/s/en_US4sndn8/665/3/5.8.7/_/download/batch/com.pyxis.greenhopper.jira:gh-globalcss/com.pyxis.greenhopper.jira:gh-globalcss.css" media="all">
+<link type="text/css" rel="stylesheet" href="/jira/s/en_US4sndn8/665/3/1.0.9/_/download/batch/com.atlassian.plugin.atlassian-feedback-plugin:feedback/com.atlassian.plugin.atlassian-feedback-plugin:feedback.css" media="all">
+<link type="text/css" rel="stylesheet" href="/jira/s/en_US4sndn8/665/3/4.4.5/_/download/batch/com.atlassian.jira.jira-admin-quicknav-plugin:admin-quicksearch/com.atlassian.jira.jira-admin-quicknav-plugin:admin-quicksearch.css" media="all">
+<script type="text/javascript" src="/jira/s/en_US4sndn8/665/3/1/_/download/superbatch/js/batch.js" ></script>
+<script type="text/javascript" src="/jira/s/en_US4sndn8/665/3/1.0/_/download/batch/jira.webresources:captcha/jira.webresources:captcha.js" ></script>
+<script type="text/javascript" src="/jira/s/en_US4sndn8/665/3/5.8.7/_/download/batch/com.pyxis.greenhopper.jira:gh-rapid-analytics/com.pyxis.greenhopper.jira:gh-rapid-analytics.js" ></script>
+<script type="text/javascript" src="/jira/s/en_US4sndn8/665/3/5.8.7/_/download/batch/com.pyxis.greenhopper.jira:gh-help-analytics/com.pyxis.greenhopper.jira:gh-help-analytics.js" ></script>
+<script type="text/javascript" src="/jira/s/en_US4sndn8/665/3/5.8.7/_/download/batch/com.pyxis.greenhopper.jira:gh-globalkeyboardshortcuts/com.pyxis.greenhopper.jira:gh-globalkeyboardshortcuts.js" ></script>
+<script type="text/javascript" src="/jira/s/en_US4sndn8/665/3/1.0.9/_/download/batch/com.atlassian.plugin.atlassian-feedback-plugin:feedback/com.atlassian.plugin.atlassian-feedback-plugin:feedback.js" ></script>
+<script type="text/javascript" src="/jira/s/en_US4sndn8/665/3/4.4.5/_/download/batch/com.atlassian.jira.jira-soy-plugin:soy-deps/com.atlassian.jira.jira-soy-plugin:soy-deps.js" ></script>
+<script type="text/javascript" src="/jira/s/en_US4sndn8/665/3/4.4.5/_/download/batch/com.atlassian.jira.jira-admin-quicknav-plugin:admin-quicksearch/com.atlassian.jira.jira-admin-quicknav-plugin:admin-quicksearch.js" ></script>
+
+    
+        <script type="text/javascript" src="/jira/rest/api/1.0/shortcuts/665/34a2ccada18f02e6d7932a28b7a4140b/shortcuts.js"></script>
+    
+</head>
+
+<body id="jira" class="lp ">
+
+
+
+
+
+
+<div id="header">
+    <div id="header-top">
+        <a id="logo" href="/jira/secure/Dashboard.jspa">
+            
+
+
+
+
+    <img class="logo" src="/jira/s/en_US4sndn8/665/3/_/images/jira111x30.png" width="111" height="30" border="0" alt="Xtrion Issuetracker">
+
+
+        </a>
+        <span style="float:right;padding:.5em;">
+            
+
+
+
+
+
+
+
+
+    
+    
+            <a class="help-lnk" href="http://docs.atlassian.com/jira/docs-044/JIRA+Documentation" target="_jirahelp">
+    
+            
+                
+            
+            <img src="/jira/s/en_US4sndn8/665/3/_/images/icons/ico_help.png" width="16" height="16"
+            
+            
+                
+                    
+                        align=middle
+                    
+                    
+                
+            
+            border="0" alt="Get help!"
+            title="Get online help about Using and setting up JIRA"/></a>
+
+
+
+        </span>
+    </div>
+</div>
+<div id="main-content" >
+    <div class="active-area">
+        <h2>Welcome to Xtrion Issuetracker</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="/jira/login.jsp"
+      class="aui"
+      
+      id="login-form"
+      method="post">
+    <div class="content-body">
+        
+        
+        
+        
+        
+        
+
+
+<div class="hidden"
+     
+            
+     
+    >
+    <input
+        
+            
+        
+        
+            name="atl_token"
+        
+        type="hidden"
+        
+            
+            
+        
+        
+            
+        
+    />
+</div>
+
+        <div class="aui-message warning"><span class="aui-icon icon-warning"></span>
+                    
+                    
+                        <p>You must log in to access this page.</p>
+                    
+                    <p>
+                    If you think this message is wrong, please contact your <a href="/jira/secure/ContactAdministrators!default.jspa">JIRA administrators</a>.
+                </p>
+            </div>
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+
+
+
+
+<fieldset>
+    
+    <div class="field-group">
+    <label accesskey="u" for="login-form-username"><u>U</u>sername</label>
+            <input class="text medium-field" id="login-form-username" name="os_username" type="text" value="" />
+    
+</div>
+
+        
+
+
+
+
+<div class="field-group">
+    <label accesskey="p" for="login-form-password" id="passwordlabel"><u>P</u>assword</label>
+            <input id="login-form-password" class="text medium-field" name="os_password" type="password" />
+    
+</div>
+        
+        
+        
+
+
+
+
+<fieldset class="group ">
+    
+    <div class="checkbox">
+    <input class="checkbox" id="login-form-remember-me" name="os_cookie" type="checkbox" value="true" />
+                <label for="login-form-remember-me" accesskey="r"><u>R</u>emember my login on this computer</label>
+    
+</div>
+</fieldset> <!-- // .group -->
+        
+
+        
+        <div class="field-group">
+            
+            Not a member? To request an account, please contact your <a href="/jira/secure/ContactAdministrators!default.jspa">JIRA administrators</a>.
+            
+        </div>
+</fieldset>
+    
+
+
+<div class="hidden"
+     
+            
+     
+    >
+    <input
+        
+            
+        
+        
+            name="os_destination"
+        
+        type="hidden"
+        
+            value="/secure/attachment/246890/jiraticketservice-1.7.0.jar"
+            
+        
+        
+            
+        
+    />
+</div>
+    </div>
+    
+    <div class="buttons-container content-footer">
+        
+        <div class="buttons">
+            
+                
+
+
+
+
+<input
+    
+        accesskey="s"
+    
+    
+        
+        class="button"
+    
+    
+    
+        id="login-form-submit"
+    
+    name="login"
+    title="Press Alt+s to submit this form"
+    type="submit"
+    
+        value="Log In"
+        
+    
+    />
+            
+            
+        </div>
+    </div>
+    
+</form> <!-- // .aui #login-form -->
+    </div>
+</div>
+
+
+
+<div class="fullyCentered footer" >
+<div class="poweredbymessage">
+                                    
+                
+        <a class="seo-link" href="http://www.atlassian.com/software/jira/bug-tracking.jsp">Bug tracking</a> and <a class="seo-link" href="http://www.atlassian.com/software/jira/tour/project-tracking.jsp">project tracking</a> for <a class="seo-link" href="http://www.atlassian.com/software/jira/tour/software-development.jsp">software development</a> powered by <a href="http://www.atlassian.com/software/jira" class="smalltext">Atlassian JIRA</a>
+        <span id="footer-build-information" class="smallgreyfooter" >(v4.4.5#665-<span title='422aeadac7e4462fb4ae63fce804ff78c4258dd6' data-commit-id='422aeadac7e4462fb4ae63fce804ff78c4258dd6}'>sha1:422aead</span>)</span>
+        | <a href="http://support.atlassian.com/secure/CreateIssue.jspa?issuetype=1&amp;pid=10000">Report a problem</a>
+    </div>
+            </div>
+
+
+</body>
+</html>
